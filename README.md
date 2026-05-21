@@ -13,7 +13,8 @@ Your final application requirements are hidden inside an encrypted file in this 
 
 ## Instructions for Challenge 1
 
-1.  **Work with AI**: Use your AI coding assistant (like Roo Code) to write a python script to decrypt your specific mission.
+1.  **Clone this workshop repo**: Open a terminal, `cd ../Projects`, and run `git clone https://github.com/your-username/ai-workshop-task-1.git`. Change into the cloned folder before continuing.
+2.  **Work with AI**: Use your AI coding assistant (like Roo Code) to write a python script to decrypt your specific mission.
 2.  **The Goal**: The script must read the key from `challenge/crypto_key.txt` and the encrypted message from `challenge/encrypted_spec.txt`, then print the decrypted text to the console.
 3.  **Hint**: The message was encrypted using the **Fernet** symmetric encryption scheme from the `cryptography` Python library.
 
