@@ -8,7 +8,7 @@ from typing import List, Optional
 
 import database, models, schemas
 
-app = FastAPI(title="Team Standup Tracker")
+app = FastAPI(title="DE Team Standup Tracker")
 
 # Create tables
 database.init_db()

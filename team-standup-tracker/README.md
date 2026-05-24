@@ -1,4 +1,4 @@
-# Team Standup Tracker
+# DE Team Standup Tracker
 
 A daily update board where team members post their work status and blockers, giving the team leader a real-time view of progress and a one-click summary report.
 
